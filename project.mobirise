@@ -45,7 +45,10 @@
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/white-1.svg",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteUrl": "http://www.websitejar.com",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
