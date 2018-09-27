@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "websitejar.com ",
-    "currentPage": "index.html",
+    "currentPage": "services.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -972,7 +972,7 @@
         }
       ]
     },
-    "page1.html": {
+    "services.html": {
       "settings": {
         "title": "Services",
         "meta_descr": "WebsiteJar.com is a global company that develops high technology products at reasoanable price.",
