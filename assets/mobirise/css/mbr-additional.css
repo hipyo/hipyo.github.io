@@ -1762,6 +1762,15 @@ body {
 .cid-r3yvQvAj0P .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
+.cid-r4PgCy9sYG {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r4PgCy9sYG .mbr-text,
+.cid-r4PgCy9sYG blockquote {
+  color: #767676;
+}
 .cid-r3yA3mR1Zp {
   background-image: url("../../../assets/images/03.jpg");
 }
@@ -1827,15 +1836,6 @@ body {
 }
 .cid-r3yTYOYHJT hr {
   margin: 2rem 0;
-}
-.cid-r4PgCy9sYG {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r4PgCy9sYG .mbr-text,
-.cid-r4PgCy9sYG blockquote {
-  color: #767676;
 }
 .cid-r3DGlxx1Gx {
   padding-top: 60px;
