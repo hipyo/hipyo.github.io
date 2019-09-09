@@ -2334,6 +2334,11 @@ body {
     -webkit-flex-wrap: wrap;
     flex-wrap: wrap;
   }
+  .cid-rBz1md5uFU .card-img {
+    padding-bottom: 1rem;
+    padding-right: 0 !important;
+    margin: auto;
+  }
 }
 .cid-rBz1md5uFU .media-container-row {
   -webkit-flex-direction: row-reverse;
